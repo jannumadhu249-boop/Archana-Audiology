@@ -2376,7 +2376,7 @@ label {
     transform: translateY(-50%);
   }
   .cs_site_header.cs_style_1 .cs_nav_list ul {
-    width: 200px;
+    width: 500px;
     color: var(--primary-color);
     background-color: var(--white-color);
     position: absolute;
